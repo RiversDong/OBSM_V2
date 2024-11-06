@@ -23,6 +23,7 @@ perl obsm_v2.pl -aln /data/chuand/fusion_gene/obsm/OBSM/OBSM_program/example/dna
                -tree /data/chuand/fusion_gene/obsm/OBSM/OBSM_program/example/gene_tree.trees \
                -o /data/chuand/fusion_gene/obsm/OBSM/OBSM_program/test3 \
                -fo Ppardus
+```
 
 ## Notes
 

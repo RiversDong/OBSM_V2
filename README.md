@@ -27,9 +27,7 @@ perl obsm_v2.pl -aln /data/chuand/fusion_gene/obsm/OBSM/OBSM_program/example/dna
 
 ## Notes
 
-- **Output Path**: Ensure that the output path (`-o`) does not contain any other files or directories. If there are files present in the output path, it will cause an error. It is recommended to specify an **empty directory** for the output.
-
+- **Output Path**: Ensure that the output path (`-o`) does not contain any other files or directories. If there are files present in the output path, it will cause an error. It is recommended to specify an **empty directory** for the output
 - **Absolute Path**: Always use an **absolute path** for the output directory to avoid any issues with relative paths or path resolution.
-
 - **Beta Version**: This tool is currently in **beta version** and has not been officially released. It is for internal testing and feedback purposes only.
 
